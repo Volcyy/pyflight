@@ -1,3 +1,10 @@
+# Important Notice
+According to the official [QPX Express API Documentation](https://developers.google.com/qpx-express/), the API service will be retired on April 10, 2018. As such, this project will not be developed any further.
+You can read through [the FAQ](https://developers.google.com/qpx-express/faq#EndOfServiceFAQs) for more information.
+
+
+
+
 # pyflight
 [![Documentation Status](https://readthedocs.org/projects/pyflight/badge/?version=latest)](http://pyflight.readthedocs.io/en/latest/?badge=latest)
 [![Build Status](https://travis-ci.org/Volcyy/pyflight.svg?branch=master)](https://travis-ci.org/Volcyy/pyflight)
